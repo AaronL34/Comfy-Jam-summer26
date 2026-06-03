@@ -1,1 +1,1 @@
-# Liminal-Game-Jam-2026
+# Comfy Jam Summer 2026
