@@ -1,5 +1,5 @@
 [gd_scene format=3 uid="uid://cv6laexpp502i"]
 
-[node name="CharacterBody2D" type="CharacterBody2D" unique_id=582063569]
+[node name="Squirrelchar" type="CharacterBody2D" unique_id=582063569]
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1797447250]
