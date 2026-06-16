@@ -1,8 +1,11 @@
 [gd_scene format=3 uid="uid://cebri685pksqv"]
 
 [ext_resource type="PackedScene" uid="uid://doj1fnxlve8q8" path="res://assets/entites/Player/player.tscn" id="1_3mqji"]
+[ext_resource type="PackedScene" uid="uid://cqpk35rgapu0o" path="res://levels/daytime/daytime_root.tscn" id="2_x4av3"]
 
 [node name="Main" type="Node2D" unique_id=113584928]
+
+[node name="Daytime_root" parent="." unique_id=1196237941 instance=ExtResource("2_x4av3")]
 
 [node name="Player" parent="." unique_id=473907558 instance=ExtResource("1_3mqji")]
 position = Vector2(450, 324)
